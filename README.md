@@ -1,0 +1,1 @@
+# collocation_word_api
