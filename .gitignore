@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# custom ignore case
+model/*.pkl
+model/*tar.bz2
+.vscode/
+.DS_Store
